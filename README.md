@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cedkiller
 - 👀 I’m interested in games and program
-- 🌱 I’m currently learning C# and JavaScript
+- 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
