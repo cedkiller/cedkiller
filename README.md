@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @cedkiller
-- 👀 I’m interested in games and program
-- 🌱 I’m currently learning Java and Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in developing system and web application
 - 📫 How to reach me cedrickjaspersarabia@gmail.com
 
 <!---
